@@ -8,3 +8,6 @@
 [submodule "risk.assessr"]
 	path = risk.assessr
 	url = https://github.com/sanofi-public/risk.assessr
+[submodule "test.assessr"]
+	path = test.assessr
+	url = https://github.com/sanofi-public/test.assessr
