@@ -5,6 +5,3 @@
 [submodule "eVCGsampler"]
 	path = eVCGsampler
 	url = https://github.com/sanofi-public/evcgsampler
-[submodule "risk.assessr"]
-	path = risk.assessr
-	url = https://github.com/sanofi-public/risk.assessr
