@@ -5,3 +5,6 @@
 [submodule "eVCGsampler"]
 	path = eVCGsampler
 	url = https://github.com/sanofi-public/evcgsampler
+[submodule "ggcolonviz"]
+	path = ggcolonviz
+	url = https://github.com/sanofi-public/ggcolonviz
